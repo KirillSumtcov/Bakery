@@ -1,0 +1,14 @@
+:root {
+    --color-primary-dark: #31261A;
+    --color-primary-light: #FAF4EA;
+    --color-secondary-dark: #A28268;
+    --color-brand-dark: #465929;
+    --color-brand-normal: #819B57;
+    --color-brand-light: #cfcfbc;
+    --color-secondary-light: #A18268;
+}
+
+// Breakpoint
+$bp-mobile: 480px;
+$bp-tablet: 768px;
+$bp-desktop: 1280px;
